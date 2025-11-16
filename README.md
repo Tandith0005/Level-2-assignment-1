@@ -255,7 +255,7 @@ console.log(calculateTotalPrice(products));
 4. What is the use of `enums` in TypeScript? Provide an example of a numeric and string enum.
 5. Provide an example of using **union** and **intersection** types in TypeScript.
 
-✅ **Instructions & Submission Guidelines:**
+## ✅ Instructions & Submission Guidelines:
 
 - **Blog:** Write a blog post on **any 2** of the provided topics and include it in this `README.md`.
 - **Coding:**
@@ -270,8 +270,8 @@ console.log(calculateTotalPrice(products));
 
 ## 🕒 Assignment Deadlines:
 
-- **60 Marks:** November 17, 2025 – _before 11:59 PM_
-- **50 Marks:** November 18, 2025 – _before 11:59 PM_
-- **30 Marks:** After November 18, 2025
+- **60 Marks:** November 18, 2025 – _before 11:59 PM_
+- **50 Marks:** November 19, 2025 – _before 11:59 PM_
+- **30 Marks:** After November 19, 2025
 
 ---
